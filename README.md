@@ -14,11 +14,11 @@
 
 ## 👩‍💻 About Me
 
-A software engineer dedicated to the intersection of **Artificial Intelligence and Cybersecurity**. Currently working as a Software Developer at *ADAION Smart Grid Solutions* while finishing my Master's Degree in Computer Engineering at the University of Granada.
+A software engineer and researcher dedicated to the intersection of **Artificial Intelligence and Cybersecurity**. Currently pursuing a **PhD in Computer Engineering** and working as a **Cybersecurity Researcher at the University of Granada (UGR)**.
 
-*   🛡️ **AI for Security:** Developing autonomous SecOps systems, SIEM data ingestion pipelines, and LLM-based agents for intelligent SOC response orchestration.
-*   🤖 **Security for AI (Adversarial ML):** Researching and building defenses for AI models against emerging threats like prompt injection (direct/indirect), evasion, and data poisoning.
-*   🌍 Based in Granada, Spain.
+* 🛡️ **AI for Security:** Researching and developing autonomous SecOps systems, SIEM data ingestion pipelines, and multi-agent LLM architectures for incident response and SOC automation.
+* 🤖 **Security for AI (Adversarial ML):** Designing robust defenses for AI systems against emerging threats, including prompt injection, evasion attacks, and data poisoning.
+* 🌍 Based in Granada, Spain.
 
 ---
 
