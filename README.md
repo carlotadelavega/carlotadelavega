@@ -30,13 +30,10 @@ A software engineer and researcher dedicated to the intersection of **Artificial
 
 ---
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle" style="padding-right: 20px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlotiii30&theme=dracula&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=carlotiii30&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=carlotiii30&theme=dracula&hide_border=true" alt="GitHub Streak" height="165" />
+</div>
 
 ---
 
