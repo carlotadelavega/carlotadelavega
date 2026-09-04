@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Carlota de la Vega 🙋‍♀️</h1>
 
 <p align="center">
-  <strong>Software Developer | AI-Driven Security & Adversarial ML | MSc Computer Engineering</strong>
+  <strong>Software Developer | AI Researcher | PhD Computer Engineering</strong>
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@ A software engineer and researcher dedicated to the intersection of **Artificial
 ---
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=carlotiii30&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=carlotiii30&theme=dracula&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=carlotadelavega&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=carlotadelavega&theme=dracula&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
 
 ---
