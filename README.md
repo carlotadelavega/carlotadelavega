@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Carlota de la Vega 🙋‍♀️</h1>
 
 <p align="center">
-  <strong>Software Developer | AI Researcher | PhD Computer Engineering</strong>
+  <strong>Software Developer | AI Researcher </strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlota-de-la-vega/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://tryhackme.com/p/carlotadlavega"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-  <a href="mailto:carlotadlavega@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:carlotadelavega@ugr.es"><img src="https://img.shields.io/badge/Email-carlotadelavega%40ugr.es-D14836?style=flat-square" alt="Email"></a>
 </p>
 
 ---
