@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Carlota de la Vega 🙋‍♀️</h1>
 
 <p align="center">
-  <strong>Software Developer | AI Researcher </strong>
+  <strong>AI Researcher · PhD Candidate in Computer Engineering · University of Granada </strong>
 </p>
 
 <p align="center">
