@@ -30,11 +30,4 @@ A software engineer and researcher dedicated to the intersection of **Artificial
 
 ---
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=carlotadelavega&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=carlotadelavega&theme=dracula&hide_border=true" alt="GitHub Streak" height="165" />
-</div>
-
----
-
 <p align="center"><i>"Leveraging Intelligent Systems to Automate Defense and Secure the Future of AI."</i></p>
